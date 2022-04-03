@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/redux-state-management/static/js/main.4ea543ae.js",
+    "main.js": "/redux-state-management/static/js/main.a295a013.js",
     "index.html": "/redux-state-management/index.html",
-    "main.4ea543ae.js.map": "/redux-state-management/static/js/main.4ea543ae.js.map"
+    "main.a295a013.js.map": "/redux-state-management/static/js/main.a295a013.js.map"
   },
   "entrypoints": [
-    "static/js/main.4ea543ae.js"
+    "static/js/main.a295a013.js"
   ]
 }
