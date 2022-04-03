@@ -1,5 +1,5 @@
 function App() {
-  return <div>Hello</div>;
+  return <div>This is redux state management project</div>;
 }
 
 export default App;
